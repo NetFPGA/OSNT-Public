@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://www.cl.cam.ac.uk/~ga288/images/OSNT_LOGO.png" width="45%" height="45%" > 
+<img src="http://www.cl.cam.ac.uk/~ga288/old_website/images/OSNT_LOGO.png" width="45%" height="45%" > 
 </p>
 
 Welcome to the OSNT public repository.
