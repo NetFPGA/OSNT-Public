@@ -14,4 +14,4 @@ Start with [the wiki](https://github.com/NetFPGA/OSNT-Public/wiki)
 
 Want to get to the code?
 
-Start with [this page](https://github.com/NetFPGA/NetFPGA-10G-empty/wiki/Going-Beta)
+Start with [this page](https://github.com/NetFPGA/OSNT) for NetFPGA-10G and with [this page](https://github.com/NetFPGA/OSNT-SUME-live) for NetFPGA-SUME.
